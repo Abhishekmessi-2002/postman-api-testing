@@ -49,4 +49,4 @@ API Base URL: `https://jsonplaceholder.typicode.com`
 
 **Abhishek R**  
 Aspiring QA Engineer & Computer Science Graduate  
-[LinkedIn]([https://linkedin.com/](http://www.linkedin.com/in/abhishek-r-815199266/))
+[LinkedIn](https://linkedin.com/in/abhishek-r-8151992b6/)   
